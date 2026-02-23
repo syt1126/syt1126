@@ -1,7 +1,4 @@
 
-```markdown
-<div align="center">
-
 # 👋 Hi there, I'm Serein1t (syt1126)
 
 **AI Engineer 🧠 | Python Developer 🐍 | Astro-Hardware Maker 🌌**
