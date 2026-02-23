@@ -58,16 +58,17 @@
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="syt1126's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="syt1126's Top Languages" width="48%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
+
 <div align="center">
   <i>“To infinity, and beyond.”</i> 🚀
 </div>
-
 ```
 
 ---
