@@ -59,8 +59,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://stats.justsong.cn/api?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://stats.justsong.cn/api/top-langs/?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>“To infinity, and beyond.”</i> 🚀
 </div>
 ```
 
