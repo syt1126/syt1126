@@ -49,10 +49,10 @@
 
 ### 🔥 Featured Projects
 
-| 🌌 **Astro-Engineering** | 🤖 **AI & Agents** |
+| 🌌 **Astro-Engineering** | 🤖 **AI & Chatbots** |
 | :--- | :--- |
-| **[StarLink Pro App](https://github.com/syt1126/StarLink-Pro-app)** <br> 基于 Python/Flet 的天文控制中控台，集成 Astrometry AI 盲解星图与开普勒轨道解析，支持 UDP 遥测下位机。 | **[AI Engineering Hub](https://github.com/syt1126/ai-engineering-hub)** <br> 深入探索 LLMs、RAG（检索增强生成）与真实世界 AI Agent 应用的硬核技术仓库。 |
-| **[StarLink_pro Hardware](https://github.com/syt1126/StarLink_pro)** <br> 基于 M5Stack 的 Wi-Fi 寻星仪硬件驱动层，解析 UDP 指令并精准控制物理步进电机。 | **[Serein1t Chatbot](https://github.com/syt1126/Serein1t_chatbot)** <br> 个人定制化的 AI 聊天机器人项目。 |
+| **[StarLink Pro App](https://github.com/syt1126/StarLink-Pro-app)** <br> 基于 Python/Flet 的天文控制中控台，集成 Astrometry AI 盲解星图与开普勒轨道解析，支持 UDP 遥测下位机。 | **[Serein1t Chatbot](https://github.com/syt1126/Serein1t_chatbot)** <br> 个人定制化的 AI 聊天机器人项目，探索高级对话引擎与自动化交互。 |
+| **[StarLink_pro Hardware](https://github.com/syt1126/StarLink_pro)** <br> 基于 M5Stack 的 Wi-Fi 寻星仪硬件驱动层，解析 UDP 指令并精准控制物理步进电机。 | *(Working on new AI modules...)* 🚀 <br> 持续探索更多 AI 与硬件结合的可能性。||
 
 ---
 
