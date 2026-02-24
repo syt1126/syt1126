@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi%20there,%20I'm%20Serein1t%20%F0%9F%91%8B&fontSize=45&fontAlignY=40&animation=twinkling&desc=Welcome%20to%20my%20Digital%20Workshop&descSize=20&descAlignY=65" alt="Profile Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1500&color=00FF41&center=true&vCenter=true&width=850&height=120&lines=%3E_+root%40serein1t%3A~%24+whoami;AI+Architect+%26+Astro-Hardware+Engineer;%3E_+root%40serein1t%3A~%24+.%2Fboot_sequence.sh;%5BOK%5D+Neural+Core+%26+3D+Engines+Online..." alt="Hacker Terminal" />
+
 </div>
 
 **AI Algorithm Architect 🧠 | Edge Computing/IoT ⚙️ | Digital Reality Creator 🎨**
