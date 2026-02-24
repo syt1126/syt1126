@@ -8,6 +8,7 @@
 **AI Algorithm Architect 🧠 | Edge Computing/IoT ⚙️ | Digital Reality Creator 🎨**
 </div>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF5&center=true&vCenter=true&width=800&lines=Building+AI+Agents+%26+LLM+Apps;Exploring+Computer+Vision+%26+ML;Forging+Astro-Hardware+%26+IoT;Rendering+Realities+in+3D+Engines" alt="Typing SVG" />
 </div>
