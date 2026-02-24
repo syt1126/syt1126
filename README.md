@@ -11,12 +11,13 @@
 
 ### 🚀 About Me
 
-欢迎来到我的数字车间！我致力于探索**人工智能与物理硬件**的交汇点。从构建深入的 LLM (大语言模型) RAG 知识库，到手搓基于 ESP32/M5Stack 的天文星野追踪系统，我喜欢将复杂的算法落地为可触摸的科技。
+欢迎来到我的数字车间！我是一名专注于**人工智能 (AI)** 与多维技术交叉探索的开发者。从构建基于计算机视觉 (CV) 的自然生态识别系统，到开发高度定制化的 LLM 智能对话引擎，我致力于让冷冰冰的算法拥有感知和理解世界的能力。我不局限于纯软件，更喜欢将 AI 注入物理世界与 3D 引擎，让代码既能思考，也能行动。
 
-* 🔭 **Currently working on:** [**StarLink Pro**](https://github.com/syt1126/StarLink-Pro-app) - 一套融合了 AI 盲解星图 (Plate Solving) 与纯数学轨道推演的跨平台天文 GoTo 中控系统。
-* 🌱 **Currently learning:** 深入研究 AI Agent 架构、边缘计算与高级硬件通信协议。
-* ⚡ **Fun fact:** 我坚信代码不仅能跑在云端，还能驱动电机指向浩瀚宇宙。
-
+- 🤖 **AI & Algorithms:** 深入探索大语言模型 (LLMs)、LangChain 生态、Hugging Face 开源模型，以及定制化对话系统开发 (Serein1t Chatbot)。
+- 🔭 **Currently working on:** - 基于计算机视觉的图像分类系统 (**Bird-Recognizer**)
+  - 融合了 AI 盲解星图 (Plate Solving) 与轨道理算的跨平台中控系统 (**StarLink Pro**)
+- 🌱 **Currently learning:** AI Agent 架构、AI 与 3D 渲染引擎 (Unity/Blender) 的自动化结合，以及边缘计算 (Edge AI)。
+- ⚡ **Fun fact:** 我坚信代码不仅能在云端进行深度学习，能在 3D 空间里渲染梦境，还能驱动物理电机精准指向浩瀚宇宙。
 ---
 
 ### 🛠️ Tech Stack & Arsenal
