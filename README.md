@@ -1,90 +1,105 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=900&height=100&lines=%3E_ INITIALIZING SEREIN1T CORE SYSTEM...;%3E_ LOADING NEURAL MODULES... [OK];%3E_ CALIBRATING ASTRO-SENSORS... [OK];Let's bridge the digital and physical worlds." alt="System Boot" />
+  <img src="https://raw.githubusercontent.com/platane/platane/master/public/github-isometric-banner.png" width="100%" alt="Isometric City Banner" />
 </div>
 
 <div align="center">
-  <h3><code>[ AI Algorithm Architect | Edge Computing/IoT | Digital Reality Creator ]</code></h3>
-  <p><i>“To infinity, and beyond.”</i> 🚀</p>
+  <h1 style="border-bottom: none;">
+    👋 Hi there, I'm <span style="color: #79c0ff;">Serein1t</span> (syt1126)
+  </h1>
+  <h3><code>[ AI Algorithm Architect 🧠 | Edge Computing/IoT ⚙️ | Digital Reality Creator 🌌 ]</code></h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9B2C3&center=true&vCenter=true&width=800&lines=Building+AI+Agents+%26+LLM+Apps;Exploring+Computer+Vision+%26+ML;Forging+Astro-Hardware+%26+IoT;Rendering+Realities+in+3D+Engines" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
-### 🚀 SYSTEM STATUS: ABOUT ME
+<h3>🚀 About Me: The Digital Workshop</h3>
+<p>
+欢迎来到我的数字车间！我是一名致力于<b>打通“虚拟与现实”边界</b>的开发者。我不满足于仅仅让代码在服务器上运行，我让 AI 理解视觉世界，让算法驱动物理硬件指向星空，让数据在 3D 引擎中具象化。我坚信：<b>代码不仅能思考，还能行动。</b>
+</p>
 
-欢迎来到我的数字车间！我是一名专注于**人工智能 (AI)** 与多维技术交叉探索的开发者。从构建基于计算机视觉 (CV) 的自然生态识别系统，到开发高度定制化的 LLM 智能对话引擎，我致力于让冷冰冰的算法拥有感知和理解世界的能力。我不局限于纯软件，更喜欢将 AI 注入物理世界与 3D 引擎，让代码既能思考，也能行动。
+- 🤖 **AI & Algorithms:** 深入 LLM 大模型、RAG 知识库、LangChain 智能体与 Hugging Face 生态。
+- 👁️ **Computer Vision:** 构建基于 CV 的自然生态图像识别系统。
+- 🔭 **Astro-Engineering:** 融合 AI 盲解星图与纯数学轨道理算，打造软硬结合的天文中控。
+- 🌌 **3D & Realities:** 利用 Unity/Blender 探索 AI 驱动的 3D 内容生成与数字孪生。
+- ⚡ **Fun fact:** 我坚信代码不仅能在云端深度学习，能在 3D 空间渲染梦境，还能驱动物理电机精准指向浩瀚宇宙。
 
-- 🤖 **AI & Algorithms:** 深入探索大语言模型 (LLMs)、LangChain 生态、Hugging Face 开源模型，以及定制化对话系统开发 (Serein1t Chatbot)。
-- 👁️ **Currently working on (CV):** 基于计算机视觉的自然生态图像分类系统 (**Bird-Recognizer**)。
-- 🔭 **Currently working on (Astro):** 融合了 AI 盲解星图 (Plate Solving) 与轨道理算的跨平台天文中控系统 (**StarLink Pro**)。
-- 🌱 **Currently learning:** AI Agent 架构、AI 与 3D 渲染引擎 (Unity/Blender) 的自动化结合，以及边缘计算 (Edge AI)。
-- ⚡ **Fun fact:** 我坚信代码不仅能在云端进行深度学习，能在 3D 空间里渲染梦境，还能驱动物理电机精准指向浩瀚宇宙。
+---
 
-<br>
+<h3>🔥 Featured Projects: Mission Control Center</h3>
 
-<table border="0" width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌌 Astro-Engineering</h3>
-      <p><b><a href="https://github.com/syt1126/StarLink-Pro-app">StarLink Pro App</a></b><br>基于 Python/Flet 的天文控制中控台，集成 Astrometry AI 盲解星图与开普勒轨道解析，支持 UDP 遥测下位机。</p>
-      <p><b><a href="https://github.com/syt1126/StarLink_pro">StarLink_pro Hardware</a></b><br>基于 M5Stack 的 Wi-Fi 寻星仪硬件驱动层，解析 UDP 指令并精准控制物理步进电机。</p>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+      <h3 align="center">🌌 Astro-Physical Systems</h3>
+      <p align="center">
+        <a href="https://github.com/syt1126/StarLink-Pro-app">
+          <img src="https://img.shields.io/badge/App-StarLink_Pro-FF5722?style=for-the-badge&logo=nasa&logoColor=white" height="35">
+        </a><br>
+        跨平台天文 GoTo 中控台。集成 Astrometry AI 盲解星图与高精度轨道数学引擎。
+      </p>
+      <p align="center">
+        <a href="https://github.com/syt1126/StarLink_pro">
+          <img src="https://img.shields.io/badge/Hardware-StarLink_Drive-FF5722?style=for-the-badge&logo=espressif&logoColor=white" height="35">
+        </a><br>
+        基于 M5Stack/ESP32 的边缘硬件驱动层。微秒级解析 UDP 指令，闭环控制步进电机。
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI & Machine Learning</h3>
-      <p><b><a href="https://github.com/syt1126/Bird-Recognizer">Bird-Recognizer</a></b><br>基于 Python 构建的鸟类视觉识别系统，探索计算机视觉 (CV) 与图像分类算法在实际场景中的应用。</p>
-      <p><b><a href="https://github.com/syt1126/Serein1t_chatbot">Serein1t Chatbot</a></b><br>个人定制化的 AI 聊天机器人项目，探索高级对话引擎与自动化交互。</p>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+      <h3 align="center">🧠 Neural & Cognitive Intelligence</h3>
+      <p align="center">
+        <a href="https://github.com/syt1126/Bird-Recognizer">
+          <img src="https://img.shields.io/badge/CV_AI-Bird_Recognizer-36BCF5?style=for-the-badge&logo=opencv&logoColor=white" height="35">
+        </a><br>
+        基于计算机视觉 (CV) 的图像分类系统。探索机器学习模型在自然生态识别中的应用。
+      </p>
+      <p align="center">
+        <a href="https://github.com/syt1126/Serein1t_chatbot">
+          <img src="https://img.shields.io/badge/LLM_Agent-Cognitive_Core-36BCF5?style=for-the-badge&logo=openai&logoColor=white" height="35">
+        </a><br>
+        高度定制化的 AI 对话引擎。研究高级 Prompt 工程、上下文记忆与智能体交互架构。
+      </p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<details>
-<summary><b>⚡ 点击展开核心武器库 (ACCESS TECH ARSENAL)</b></summary>
-<br>
+---
+
+<h3>🛠️ Tech Arsenal & Skills Matrix</h3>
+
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<br><br>
-
-**Frameworks & AI Libraries**
-<br>
-<img src="https://img.shields.io/badge/Flet_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/AsyncIO-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<br><br>
-
-**Hardware & IoT**
-<br>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Socket_Comm-purple?style=for-the-badge">
-<br><br>
-
-**Creative & 3D Engines**
-<br>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-<img src="https://img.shields.io/badge/3ds_Max-1CA5B8?style=for-the-badge&logo=autodesk&logoColor=white">
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
+| **Category** | **Technologies & Tools** |
+| :--- | :--- |
+| **🧠 AI & Algorithms** | `Python`, `LangChain`, `Hugging Face`, `OpenCV`, `PyTorch/TensorFlow` |
+| **🛸 Hardware & IoT** | `C++`, `ESP32`, `Arduino`, `M5Stack`, `UART/UDP Protocol` |
+| **🌌 3D & Creative** | `Unity (C#)`, `Blender`, `3ds Max`, `Adobe Premiere Pro` |
+| **⚙️ Core & Backend** | `AsyncIO`, `Multithreading`, `REST APIs`, `Flet UI`, `Linux` |
 
 </div>
-</details>
 
 <br>
-
 <div align="center">
-  <h3>📊 SYSTEM TELEMETRY</h3>
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity_C#-100000?style=flat-square&logo=unity&logoColor=white">
 </div>
 
 <br>
 
-<div align="center" style="font-family: monospace;">
-  <p><code>> END OF TRANSMISSION. _</code></p>
+---
+
+<h3>📊 System Telemetry</h3>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syt1126&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>“To infinity, and beyond.”</i> 🚀
 </div>
