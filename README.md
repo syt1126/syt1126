@@ -1,5 +1,7 @@
 
-# 👋 Hi there, I'm Serein1t (syt1126)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi%20there,%20I'm%20Serein1t%20%F0%9F%91%8B&fontSize=45&fontAlignY=40&animation=twinkling&desc=Welcome%20to%20my%20Digital%20Workshop&descSize=20&descAlignY=65" alt="Profile Banner" />
+</div>
 
 **AI Algorithm Architect 🧠 | Edge Computing/IoT ⚙️ | Digital Reality Creator 🎨**
 
