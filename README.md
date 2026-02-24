@@ -51,7 +51,7 @@
 
 | 🌌 **Astro-Engineering** | 🤖 **AI & Machine Learning** |
 | :--- | :--- |
-| **[StarLink Pro App](https://github.com/syt1126/StarLink-Pro-app)** <br> 基于 Python/Flet 的天文控制中控台，集成 Astrometry AI 盲解星图与开普勒轨道解析，支持 UDP 遥测下位机。 | **[Bird-Recognizer](https://github.com/syt1126/Bird-Recognizer)** 🔒<br> 基于 Python 构建的鸟类视觉识别系统，探索计算机视觉 (CV) 与图像分类算法在实际场景中的应用。 |
+| **[StarLink Pro App](https://github.com/syt1126/StarLink-Pro-app)** <br> 基于 Python/Flet 的天文控制中控台，集成 Astrometry AI 盲解星图与开普勒轨道解析，支持 UDP 遥测下位机。 | **[Bird-Recognizer](https://github.com/syt1126/Bird-Recognizer)** <br> 基于 Python 构建的鸟类视觉识别系统，探索计算机视觉 (CV) 与图像分类算法在实际场景中的应用。 |
 | **[StarLink_pro Hardware](https://github.com/syt1126/StarLink_pro)** <br> 基于 M5Stack 的 Wi-Fi 寻星仪硬件驱动层，解析 UDP 指令并精准控制物理步进电机。 | **[Serein1t Chatbot](https://github.com/syt1126/Serein1t_chatbot)** <br> 个人定制化的 AI 聊天机器人项目，探索高级对话引擎与自动化交互。 |
 
 ---
