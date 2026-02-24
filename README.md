@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Serein1t (syt1126)
 
-**AI Engineer 🧠 | Python Developer 🐍 | Astro-Hardware Maker 🌌**
+**AI & CV Engineer 🧠 | Astro-IoT Maker 🔭 | 3D Engine Explorer 🌌**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BCD4&center=true&vCenter=true&width=500&lines=Building+AI+Agents+%26+LLM+Apps;Bridging+Software+with+Hardware;Exploring+Astrometry+%26+Plate+Solving" alt="Typing SVG" />
 
