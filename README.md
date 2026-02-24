@@ -21,6 +21,7 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
+
 <div align="center">
 
 **Languages**
@@ -30,11 +31,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <br>
 
-**Frameworks & Libraries**
+**Frameworks & AI Libraries**
 <br>
 ![Flet/Flutter](https://img.shields.io/badge/Flet_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-red?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 <br>
 
 **Hardware & IoT**
@@ -42,6 +44,14 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![UDP/TCP](https://img.shields.io/badge/Socket_Comm-purple?style=for-the-badge)
+<br>
+
+**Creative & 3D Engines**
+<br>
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-1CA5B8?style=for-the-badge&logo=autodesk&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 </div>
 
