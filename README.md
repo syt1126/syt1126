@@ -12,12 +12,11 @@
 ### 🚀 About Me
 
 欢迎来到我的数字车间！我是一名专注于**人工智能 (AI)** 与多维技术交叉探索的开发者。从构建基于计算机视觉 (CV) 的自然生态识别系统，到开发高度定制化的 LLM 智能对话引擎，我致力于让冷冰冰的算法拥有感知和理解世界的能力。我不局限于纯软件，更喜欢将 AI 注入物理世界与 3D 引擎，让代码既能思考，也能行动。
-
 - 🤖 **AI & Algorithms:** 深入探索大语言模型 (LLMs)、LangChain 生态、Hugging Face 开源模型，以及定制化对话系统开发 (Serein1t Chatbot)。
-- 🔭 **Currently working on:** - 基于计算机视觉的图像分类系统 (**Bird-Recognizer**)
-  - 融合了 AI 盲解星图 (Plate Solving) 与轨道理算的跨平台中控系统 (**StarLink Pro**)
+- 👁️ **Currently working on (CV):** 基于计算机视觉的自然生态图像分类系统 (**Bird-Recognizer**)。
+- 🔭 **Currently working on (Astro):** 融合了 AI 盲解星图 (Plate Solving) 与轨道理算的跨平台天文中控系统 (**StarLink Pro**)。
 - 🌱 **Currently learning:** AI Agent 架构、AI 与 3D 渲染引擎 (Unity/Blender) 的自动化结合，以及边缘计算 (Edge AI)。
-- ⚡ **Fun fact:** 我坚信代码不仅能在云端进行深度学习，能在 3D 空间里渲染梦境，还能驱动物理电机精准指向浩瀚宇宙。
+- ⚡ **Fun fact:** 我坚信代码不仅能在云端进行深度学习，能在 3D 空间里渲染梦境，还能驱动物理电机精准指向浩瀚宇宙。 我坚信代码不仅能在云端进行深度学习，能在 3D 空间里渲染梦境，还能驱动物理电机精准指向浩瀚宇宙。
 ---
 
 ### 🛠️ Tech Stack & Arsenal
